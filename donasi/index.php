@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>DEWATA ROLEPLAY INDONESIA</title>
+<title>Donasi - DEWATA ROLEPLAY INDONESIA</title>
 <meta name="description" content="DEWATA ROLEPLAY merupakan komunitas game online dari GTA SA modifikask untuk bermain roleplay">
 <meta name="keywords" content="dewatarp, dewata roleplay, dewata">
 <link rel="shortcut icon" href="../favicon.ico">
@@ -40,6 +40,13 @@
 <ul class="navbar-nav me-auto mb-2 mb-lg-0" style="text-align: center;">
 <li class="nav-item popo">
 <a class="nav-link" href="../">BERANDA</a>
+</li>
+</li>
+<li class="nav-item popo">
+<a class="nav-link" href="/peraturan" target="_blank">PERATURAN</a>
+</li>
+<li class="nav-item popo">
+<a class="nav-link" href="/download" target="_blank">DOWNLOAD</a>
 </li>
 </ul>
 </div>
