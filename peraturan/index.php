@@ -37,7 +37,7 @@
 <i class="fas fa-bars"></i>
 </button>
 <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-<ul class="navbar-nav me-auto mb-2 mb-lg-0" style="text-align: center;">
+<ul class="navbar-nav">
 <li class="nav-item popo">
 <a class="nav-link" href="../">BERANDA</a>
 </li>

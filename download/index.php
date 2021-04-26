@@ -53,12 +53,12 @@
 <div class="container">
 <h1 class="popo ungu tebal tengah wow fadeInUp" data-wow-delay="0.9s">Download</h1>
 <h4 class="popo putih wow fadeInLeft" data-wow-delay="2.8s">ANDROID</h4>
-<p class="popo putih wow fadeInLeft" data-wow-delay="2.8s">Update on: <span class="popo ungu"><?php echo date("l d-m-Y",'1617583933') ?></span></p>
-<a class="btn btn-dark popo putih tebal wow bounceIn" data-wow-delay="2.9s" href="dl/DEWATARP.zip">CLIENT</a> <a class="btn btn-dark popo putih tebal wow bounceIn" data-wow-delay="2.9s" href="dl/OBBORI.zip">OBB</a>
+<p class="popo putih wow fadeInLeft" data-wow-delay="2.8s">Update on: <span class="popo ungu"><?php $filename = '../dl/DEWATARP.zip'; if(file_exists($filename)){echo date("d F Y H:i:s", filemtime($filename));} ?></span></p>
+<a class="btn btn-dark popo putih tebal wow bounceIn" data-wow-delay="2.9s" href="https://dewatarp.xyz/dl/DEWATARP.zip">CLIENT</a> <a class="btn btn-dark popo putih tebal wow bounceIn" data-wow-delay="2.9s" href="https://dewatarp.xyz/dl/OBBORI.zip">OBB</a>
 <hr>
 <h4 class="popo putih wow fadeInLeft" data-wow-delay="2.8s">PC</h4>
-<p class="popo putih wow fadeInLeft" data-wow-delay="2.8s">Update on: <span class="popo ungu"><?php echo date("l d-m-Y",'1617583933') ?></span></p>
-<a class="btn btn-dark popo putih tebal wow bounceIn" data-wow-delay="2.9s" href="dl/DEWATARP.exe">LAUNCHER</a> <a class="btn btn-dark popo putih tebal wow bounceIn" data-wow-delay="2.9s" href="samp://18.141.213.171:7777">DIRECT CONNECT</a><br>
+<p class="popo putih wow fadeInLeft" data-wow-delay="2.8s">Update on: <span class="popo ungu"><?php $filename = '../dl/DEWATA.exe'; if(file_exists($filename)){echo date("d F Y H:i:s", filemtime($filename));} ?></span></p>
+<a class="btn btn-dark popo putih tebal wow bounceIn" data-wow-delay="2.9s" href="https://dewatarp.xyz/dl/DEWATA.exe">LAUNCHER</a> <a class="btn btn-dark popo putih tebal wow bounceIn" data-wow-delay="2.9s" href="samp://18.141.213.171:7777">DIRECT CONNECT</a><br>
 <br>
 </div>
 <footer class="bg-dark text-white popo">

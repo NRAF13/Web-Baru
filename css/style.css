@@ -68,3 +68,27 @@ table{
   .back-black{
     background-color: #121212;
   }
+  .btnWhite{
+    color: black;
+    background-color: white;
+    border: white;
+    border-color: white;
+  }
+  .btnWhite:hover{
+    color: white;
+    background-color: black;
+    border-color: white;
+  }
+  .btnPurple{
+    color: white;
+    background-color: purple;
+    border: purple;
+  }
+  .btnPurple:hover{
+    color: purple;
+    background-color: white;
+    border: purple;
+  }
+  .btnMinSmall{
+    min-width: 140px;
+  }
